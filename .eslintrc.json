@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "no-unused-vars": "off"
+  },
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": "latest"
+  },
+  "parser": "babel-parser"
+}
